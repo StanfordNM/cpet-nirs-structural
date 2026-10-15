@@ -4,7 +4,7 @@ This repository contains the code required to replicate the results from the fol
 
 > **Structural and non-structural neuromuscular diseases share central and muscle-localized limitations to exercise recovery**
 >
-> Audrey S Chun*; Geetanjali Rajamani*; Raiye Hailu; Shelby Vogt-Domke; Melina Rogers; Sarah Ismail; Lin Karman; Samuel Montalvo; Jeffrey W Christle, Bo Gu, Matthew T. Wheeler, Carolina Tesi-Rocha; Whitney Tang; Tia Nguyen, John W Day; Sally Dunaway Young, Constance M de Monts; Tanja Taivassalo, Tina Duong
+> Audrey S Chun*, Geetanjali Rajamani*, Raiye Hailu, Shelby Vogt-Domke, Melina Rogers, Sarah Ismail, Lin Karman, Samuel Montalvo, Jeffrey W Christle, Bo Gu, Matthew T. Wheeler, Carolina Tesi-Rocha, Whitney Tang, Tia Nguyen, John W Day, Sally Dunaway Young, Constance M de Monts, Tanja Taivassalo, Tina Duong
 >
 > \*Contributed equally
 > 
